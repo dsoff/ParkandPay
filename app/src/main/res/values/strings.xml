@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="greg_sucks">Greg Sucks at Things</string>
+    <string name="greg_good">Greg is good at things :(</string>
+    <string name="jay">Jay is A chilly dude</string>
+    <string name="title_activity_spots_taken">SpotsTakenActivity</string>
+    <string name="refresh">Refresh</string>
+
+</resources>
